@@ -1,0 +1,101 @@
+context,question,answer_text,answer_start,all_answers
+a pass between mountain peaks,hypernym,pass,2,['pass']
+the debt of the national government (as distinguished from the debts of individuals and businesses and political subdivisions),hypernym,debt,4,"['debt', 'debts']"
+the act or art of writing in shorthand,hypernym,writing,18,"['writing', 'act']"
+the act of adding a sweetener to food,hypernym,act,4,['act']
+a thermometer used to determine the temperature of candy syrups during cooking,hypernym,thermometer,2,['thermometer']
+an extravagantly loud outcry,hypernym,outcry,22,['outcry']
+extinct family: mastodons,hypernym,family,8,['family']
+funds that will be supplied in an amount matching the funds available from other sources,hypernym,funds,0,['funds']
+(chemistry) the tendency of an atom or radical to attract electrons in the formation of an ionic bond,hypernym,tendency,16,['tendency']
+a pipe of the bagpipe that is tuned to produce a single continuous tone,hypernym,pipe,2,"['pipe', 'bagpipe']"
+the point of intersection of coordinate axes; where the values of the coordinates are all zero,hypernym,intersection,13,['intersection']
+a letter dealing with personal affairs,hypernym,letter,2,['letter']
+an assistant who handles correspondence and clerical work for a boss or an organization,hypernym,assistant,3,['assistant']
+rock altered by pressure and heat,hypernym,rock,0,['rock']
+European twining honeysuckle with fragrant red and yellow-white flowers,hypernym,honeysuckle,17,['honeysuckle']
+right of inheritance belongs exclusively to the eldest son,hypernym,inheritance,9,['inheritance']
+a group of languages of the Hokan family,hypernym,Hokan,28,"['Hokan', 'languages']"
+a child's game of fighting with pillows,hypernym,game,10,['game']
+the enticing appeal of something alluring but potentially dangerous,hypernym,appeal,13,['appeal']
+any plant of the genus Tithonia; tall coarse herbs or shrubs of Mexico to Panama having large flower heads resembling sunflowers with yellow disc florets and golden-yellow to orange-scarlet rays,hypernym,flower,94,"['flower', 'plant']"
+one of a pair of fleshy appendages of a polychete annelid that functions in locomotion and breathing,hypernym,appendages,24,['appendages']
+the capital and largest city of Lithuania; located in southeastern Lithuania,hypernym,Lithuania,32,"['Lithuania', 'capital', 'city']"
+an unsteady uneven gait,hypernym,gait,19,['gait']
+tree of southern United States and Mexico cultivated for its nuts,hypernym,tree,0,['tree']
+the study or the use of symbols and symbolism,hypernym,study,4,['study']
+someone who makes or repairs guns,hypernym,someone,0,['someone']
+a potential takeover target that has not yet been put in play,hypernym,takeover target,12,['takeover target']
+an agency of the legislative branch that provides printing and binding services for Congress and the departments and establishments of the federal government,hypernym,agency,3,"['agency', 'legislative branch', 'branch']"
+a person skilled in exegesis (especially of religious texts),hypernym,person,2,['person']
+United States composer (born in Hungary) who composed operettas (1887-1951),hypernym,composer,14,['composer']
+any object resembling a moon,hypernym,object,4,['object']
+the capital and largest city of Nepal,hypernym,Nepal,32,"['Nepal', 'capital', 'city']"
+a metric unit of volume or capacity equal to 1000 liters,hypernym,metric,2,"['metric', 'metric unit', 'unit', 'volume']"
+United States composer noted for his innovative use of polytonality (1874-1954),hypernym,composer,14,['composer']
+an Australian state in southeastern Australia,hypernym,Australia,36,"['Australia', 'Australian state', 'state']"
+gauge for indicating the level of water in e.g. a tank or boiler or reservoir,hypernym,gauge,0,['gauge']
+a strip of land projecting into a body of water,hypernym,land,11,['land']
+a rich custard set with gelatin,hypernym,custard,7,['custard']
+the threat to Western civilization said to arise from the power of Asiatic peoples,hypernym,threat,4,['threat']
+British physicist who (with Ernest Walton in 1931) first split an atom (1897-1967),hypernym,physicist,8,['physicist']
+United States labor leader who was president of the Teamsters Union; he was jailed for trying to bribe a judge and later disappeared and is assumed to have been murdered (1913-1975),hypernym,labor leader,14,"['labor leader', 'leader']"
+any of various rotating shafts that serve as axes for larger rotating parts,hypernym,rotating shafts,15,"['rotating shafts', 'shafts']"
+Russian mathematician (1856-1922),hypernym,mathematician,8,['mathematician']
+(ice hockey) a penalty that suspends a player for the remainder of a game (but allows the team to send in a substitute for the suspended player),hypernym,penalty,15,['penalty']
+shad of Atlantic coast of North America; naturalized to Pacific coast,hypernym,shad,0,['shad']
+group of evergreen or deciduous shrubs formerly considered a separate genus; now included in the genus Rhododendron,hypernym,genus,70,"['genus', 'group']"
+competitive skating on speed skates (usually around an oval course),hypernym,skating,12,['skating']
+birds of the crow family,hypernym,birds,0,['birds']
+someone who believes that the value of a thing depends on its utility,hypernym,someone,0,['someone']
+United States educator who was born a slave but became educated and founded a college at Tuskegee in Alabama (1856-1915),hypernym,educator,14,['educator']
+fuel (such as uranium) that can be used in nuclear reactors as a source of electricity,hypernym,fuel,0,['fuel']
+columbine of eastern North America having long-spurred red flowers,hypernym,columbine,0,"['columbine', 'flowers']"
+a utility program that organizes the input to a computer,hypernym,utility,2,"['utility', 'utility program', 'program']"
+a fencing sword with a v-shaped blade and a slightly curved handle,hypernym,fencing sword,2,"['fencing sword', 'sword', 'blade']"
+a small shop at a fair; for selling goods or entertainment,hypernym,shop,8,['shop']
+the capital that provides income for an institution,hypernym,capital,4,['capital']
+the basic unit of money in Nigeria,hypernym,unit,10,['unit']
+shrub or small tree of northwestern North America having fragrant creamy white flowers and small waxy purple-red fruits,hypernym,shrub,0,['shrub']
+a support for the hand,hypernym,support,2,['support']
+a sturdy hand shovel that can be pushed into the earth with the foot,hypernym,hand shovel,9,"['hand shovel', 'shovel']"
+the act of punching a hole (especially a row of holes as for ease of separation),hypernym,act,4,['act']
+a pocket-size case for holding papers and paper money,hypernym,case,14,['case']
+an oral drug (trade name Mevacor) to reduce blood cholesterol levels; used when dietary changes have proved inadequate,hypernym,drug,8,['drug']
+a group of animals,hypernym,group,2,['group']
+a class of people favoring traditional ideas,hypernym,class,2,"['class', 'people']"
+a point where lines intersect,hypernym,point,2,['point']
+benign tumor containing fibrous tissue (especially in the uterus),hypernym,benign tumor,0,"['benign tumor', 'tumor']"
+a person who makes use of a thing; someone who uses or employs something,hypernym,person,2,"['person', 'someone']"
+someone who is considered for something (for an office or prize or honor etc.),hypernym,someone,0,['someone']
+the trait of being serious; - Robert Rice,hypernym,trait,4,['trait']
+a family of dicotyledonous trees of order Myrtales that includes the sour gum trees,hypernym,family,2,['family']
+slender European grass of shady places; grown also in northeastern America and temperate Asia,hypernym,grass,17,['grass']
+an internal-combustion engine having cylinders arranged radially around a central crankcase,hypernym,internal-combustion engine,3,"['internal-combustion engine', 'engine']"
+a ballet that stresses the drama with features of comedy,hypernym,ballet,2,['ballet']
+dissolution or destruction of bacteria,hypernym,dissolution,0,['dissolution']
+a person with a thin body,hypernym,person,2,['person']
+a member of a North American Indian people living in central Baja California,hypernym,American Indian,20,"['American Indian', 'Indian']"
+the phenomenon in which light is scattered by very small particles in its path; it makes a beam of light visible; the scattered light is mainly blue,hypernym,phenomenon,4,['phenomenon']
+a special case of loft bombing in which the bomb is released past the vertical so it is tossed back to the target,hypernym,loft bombing,18,"['loft bombing', 'bombing']"
+an iron with a long shaft and a steep face; for hitting long low shots,hypernym,iron,3,['iron']
+a company that is organized to give its owners limited liability,hypernym,company,2,['company']
+mild banishment; consignment to an inferior position,hypernym,banishment,5,['banishment']
+knowledge of some recent fact or event that has become so commonly known that it has lost its original pertinence,hypernym,knowledge,0,['knowledge']
+ulcerated chilblain on the heel,hypernym,chilblain,10,['chilblain']
+a substance (an atom or molecule or radical or ion) that forms a complex around a central atom,hypernym,substance,2,['substance']
+Italian antipope from 1080 to 1100 who was installed as pope by the Holy Roman Emperor Henry IV who consistently opposed efforts at papal reform (died in 1100),hypernym,antipope,8,"['antipope', 'pope']"
+a purplish dye obtained from orchil lichens,hypernym,dye,11,['dye']
+outer surface of an area or a body,hypernym,surface,6,['surface']
+any sedge of the genus Eriophorum; north temperate bog plants with tufted spikes,hypernym,sedge,4,"['sedge', 'bog plants', 'plants']"
+any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills,hypernym,aquatic vertebrates,35,"['aquatic vertebrates', 'vertebrates']"
+fungus causing a serious disease in tobacco plants characterized by bluish-grey mildew on undersides of leaves,hypernym,mildew,80,"['mildew', 'fungus']"
+a plant that lives in or on water,hypernym,plant,2,['plant']
+"geological dating that relies on the proportions of radioactive potassium in a rock sample and its decay product, argon",hypernym,geological dating,0,"['geological dating', 'dating']"
+the class of people exerting power or authority,hypernym,class,4,"['class', 'people']"
+seal consisting of a ring for packing pistons or sealing a pipe joint,hypernym,seal,0,['seal']
+viscid acrid brownish-yellow oil from the seeds of Croton tiglium having a violent cathartic action,hypernym,oil,29,['oil']
+an animal having teeth fused with the inner surface of the alveolar ridge without sockets,hypernym,animal,3,['animal']
+brown sauce with mushrooms and red wine or Madeira,hypernym,sauce,6,['sauce']
+the property being vascular,hypernym,property,4,['property']
+the state of being tense and feeling pain,hypernym,state,4,['state']
